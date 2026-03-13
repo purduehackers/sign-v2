@@ -1,0 +1,19 @@
+﻿Study Standing Normally:1 started: 3/12/2026, 10:14:59 PM
+Number of configurations: 1
+Study Standing Normally:1 finished: 3/12/2026, 10:15:00 PM
+Total time 0:00:01
+
+Study Standing Normally:1 started: 3/12/2026, 10:15:55 PM
+Number of configurations: 1
+Default mesh: 19572 elements, 40095 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1.56  on element 712 finished: 3/12/2026, 10:17:01 PM
+Total time 0:01:06
+
+Study Held From Top:2 started: 3/12/2026, 10:17:28 PM
+Number of configurations: 1
+Default mesh: 19572 elements, 40095 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1.56  on element 712 finished: 3/12/2026, 10:18:35 PM
+Total time 0:01:07
+
